@@ -2,6 +2,10 @@
 Art-Coords is like to orthogonal coordinate system. The differences are: It's in python, not math. There is only integers.  
 You can change `rule` function to do what you want.  
   
+**NOTE:** The squares in blue have 0 variable. Example:  
+![ExampleAboutBlue](/whatisblue.png)
+
+
 Zoomed Photo of Plot Graph:  
 ![Zoomed](/graphzoomed.png)
   
