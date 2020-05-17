@@ -2,7 +2,7 @@ from PIL import Image
 
 # Write the rule into rule function.
 def rule(x,y):
-    return True
+    return False
 
 img = Image.new("RGB",(1021,1021))
 
